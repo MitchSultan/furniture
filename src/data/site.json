@@ -1,0 +1,37 @@
+{
+  "name": "Zia Glass & Mirror",
+  "tagline": "Furniture that settles in.",
+  "description": "Solid kiln-dried hardwoods, artisanal fluted mirrors, and unhurried hand-rubbed oil finishes. Handcrafted piece by piece in our Karen atelier, designed to anchor interiors for generations.",
+  "address": {
+    "street": "482 Broome Street",
+    "area": "SoHo",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10013",
+    "country": "US"
+  },
+  "showroom": {
+    "hours": "Tuesday – Saturday, 11am – 6pm",
+    "note": "Private viewings by arrangement"
+  },
+  "phone": "+1 (212) 840-9281",
+  "email": "studio@ziaglass.com",
+  "workshopLocation": "Karen, Nairobi",
+  "currency": "KES",
+  "secondaryCurrency": "USD",
+  "exchangeRate": 130,
+  "nav": [
+    { "label": "Shop", "href": "/shop" },
+    { "label": "Collections", "href": "/shop?collection=all" },
+    { "label": "Workshop", "href": "/journal" },
+    { "label": "Reviews", "href": "/#reviews" },
+    { "label": "Journal", "href": "/journal" },
+    { "label": "Showroom", "href": "/contact" }
+  ],
+  "socials": {
+    "instagram": "https://instagram.com/ziaglass",
+    "pinterest": "https://pinterest.com/ziaglass"
+  },
+  "seasonLabel": "No. 08 — Autumn 2025 Release",
+  "batchLabel": "Batch 04"
+}

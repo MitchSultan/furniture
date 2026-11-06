@@ -1,0 +1,37 @@
+[
+  {
+    "index": "01",
+    "name": "Solid East African Olivewood",
+    "description": "Hard, marbled grain seasoned for 18 months in shade. Naturally antimicrobial with high density and striking contrasting heartwood.",
+    "referenceProduct": "Mara Fluted Credenza",
+    "referenceSlug": "mara-fluted-credenza"
+  },
+  {
+    "index": "02",
+    "name": "Smoked Red Cedar & White Oak",
+    "description": "Slow-charred surface conditioning, wire-buffed to raise the tactile grain, and sealed with organic beeswax and cold-pressed citrus oil.",
+    "referenceProduct": "The Olerai Lounge Chair",
+    "referenceSlug": "olerai-ash-armchair"
+  },
+  {
+    "index": "03",
+    "name": "Hand-Silvered Mirror & Fluted Glass",
+    "description": "Crafted in our glass atelier using chemical silver precipitation for soft, depth-rich reflection without harsh sterile glare.",
+    "referenceProduct": "Lamu Arch Mirror",
+    "referenceSlug": "lamu-arch-mirror"
+  },
+  {
+    "index": "04",
+    "name": "Vegetable-Tanned Full Grain Leather",
+    "description": "Sourced from Rift Valley herds, tanned naturally with indigenous wattle bark extracts. Retains all natural grain nuances and patinas over decades.",
+    "referenceProduct": "Highland Daybed",
+    "referenceSlug": "highland-daybed"
+  },
+  {
+    "index": "05",
+    "name": "Unlacquered Cast Bronze",
+    "description": "Poured in small foundry batches, finished with handheld scrapers. Left completely untreated so everyday touches deepen its golden, living patina.",
+    "referenceProduct": "Karura Fluted Credenza",
+    "referenceSlug": "karura-fluted-credenza"
+  }
+]

@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* ── CSS Custom Properties ─────────────────────────────── */
+  :root {
+    --color-cream: #F6F2EB;
+    --color-sand: #EAE2D6;
+    --color-ink: #2A2521;
+    --color-oak: #B88B5A;
+    --color-charcoal: #211D1A;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream text-ink font-sans text-body antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Visible focus rings for accessibility */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-oak;
+  }
+
+  /* Selection styling */
+  ::selection {
+    @apply bg-oak/20 text-ink;
+  }
+
+  /* Smooth scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: theme('colors.sand') transparent;
+  }
+}
+
+@layer components {
+  /* Container utility matching design spec */
+  .page-container {
+    @apply mx-auto max-w-container px-5 md:px-10;
+  }
+}

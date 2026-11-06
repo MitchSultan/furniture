@@ -1,0 +1,29 @@
+[
+  {
+    "id": "living",
+    "title": "Living",
+    "description": "Low-slung seating and quiet anchors crafted from kiln-dried olive and textured linens.",
+    "count": "14 pieces",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCLgbcrccJnuMqg0vnhUTadWbqAUBXJ3qvyAOW5vWtFpkZEFpvkYB-8pXTuDMsYYx9kzLs7mX9FSryUvDidEOysFRSKzIlKhCWijVlzBoLLaPVUD9g8st5mbddXq63Df9qfcm1BPv4WbjTdCKsVv-xfhbN76prMkXPVVc6t0lczoP7837LM8PgxJOdMYsEKq5CHO2YRD7g_ZOISnLqIuv49V9GRmTAybzZH2xLw7XB3",
+    "alt": "Minimalist serene living area featuring solid olivewood coffee table, low slung lounge chairs and tall reed fluted glass mirror panels",
+    "href": "/shop?category=living"
+  },
+  {
+    "id": "study",
+    "title": "Study",
+    "description": "Writing desks and fluted shelving designed for enduring focus and quiet thought.",
+    "count": "8 pieces",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5H67du5t_MKLbMUIQaATwZxXqu0ZUqGVXlrBew3rVp8roVG1xbsJlNdoAWhpuyWdG3fdoytkKsfoWw5V_fRdXBz7PsR5ARzRcUA7dlhsxPJYx9qfLpvIQZaAcVVQZpdqPCVU-naVnTEhKPp97f1wsbeHQOHb4g7Ky4pZTW9vdwQgdetPDdcdrBU8vjKOJgzdkwK9okqSlRtpTr5zYzpou38IQwtB1APaMUvctSPv1",
+    "alt": "Minimalist home study setting with a solid smoked oak executive writing desk, brass desk lamp, and fluted glass privacy screen",
+    "href": "/shop?category=study"
+  },
+  {
+    "id": "dining",
+    "title": "Gather",
+    "description": "Substantial dining tables and bench seats built for family rituals and long evenings.",
+    "count": "12 pieces",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqzNp61TKlFAPEKa3u_CkdL5pB4UK2_TX1RKAV1Wd6wcTRcQPeD6D_Sd9SlrQbK7E4Y15Y_m1mbdlukiaG--86K3c1m1JZnqpfdXWyg0fYWfDLj9s1O30ZLU7vwBed7w9NpH_sW5RERkzErZBV4zvsT8QgLiFEvFbajeHtG6Z1WuUuFgwLznPn-AIP3GYdGPGmTNZLBVwO4FFZ4dOab1Qxd9JOGVkk8jhbsUpTxQGd",
+    "alt": "Sun-drenched dining space featuring a substantial 3 meter solid white oak dining table with matching monolithic bench seats",
+    "href": "/shop?category=dining"
+  }
+]
